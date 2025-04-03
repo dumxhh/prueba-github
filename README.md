@@ -1,1 +1,1 @@
-en este repositorio tendrás todos los cambios sobre el proyectp.
+en este repositorio tendrás todos los cambios sobre el proyecto.
